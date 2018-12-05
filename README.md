@@ -1,4 +1,4 @@
-## This is Pyhton programming course as a prerequisite for Data Science Regular Coursethe 
+## Pyhton programming course as a prerequisite for Data Science Regular Course 
 
 
 # Notes
