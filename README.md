@@ -29,16 +29,16 @@ This document covers much of what we'll teach you, but you are each other's grea
 
 | Month | Week | Topic |
 | --- | --- | --- |
-| 1 |  | [Programming/Prob Intro](#month-1-programming-intro-to-probability) |
-| 2 |  | [Probability and Statistics](#week-2-probability-and-statistics-plotting) |
-| 3 |  | [Linear Regression](#week-3-more-statistics-and-linear-regression) |
-| 4 |  | [More Regression](#week-4-more-regression) |
-| 5 |  | [Supervised Learning](#week-5-supervised-learning) |
-| 6 |  | [Special Topics/Unsupervised Learning](#week-6-special-topicsunsupervised-learning) |
+| 1 |  | [Python Programming Intro](#month-1-pythong-programming-intro) |
+| 2 |  | [More Python](#month-2-more-python) |
+| 3 |  | [Math Programming with Numpy](#month-3-math-programming-with-numpy) |
+| 4 |  | [Data Analysis with Pandas](#month-4-data-analysis-with-pandas) |
+| 5 |  | [Visualizaton](#month-5-visualization) |
+| 6 |  | [Capstone Project](#week-6-capstone-project) |
 
 --
 
-### Month 1: Programming, Intro to Probability
+### Month 1: Python Programming Intro
 | Week | Readings | Repo | Lead Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Week 1 | <ul><li>[Development Workflow][1]</li><li>[Pair Programming][2]</li></ul> | [Assessment 1][2.1]<br><br>[Python Intro][3] | Alex Seong | [slides][3.1] |
