@@ -58,7 +58,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 
 --
 
-### Month 3: More Statistics and Linear Regression
+### Month 3: Math Programming with Numpy
 | Week | Readings | Repo | Lead Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Week 1 | <ul><li>[Power Analysis][39.4]</li><li>[Bayesian Statistics 1][40.0]</li></ul>  | [Power Calculation and Bayes][40] | Alex Seong | [slides][40.2] |
@@ -68,7 +68,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 
 --
 
-### Month 4: More Regression
+### Month 4: Data Analysis with Pandas
 | Week | Readings | Repo | Lead Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Week 1 | <ul><li>[StatLearning][47.1]: Cross Validation (5-5.1.4, pg 175-184)</li><li>[StatLearning][47.1]: Shrinkage Methods (6.2, pg 214-228) (optional: pg 203-214)</li></ul> | [Cross Validation & Regularized Regression][54] | Alex Seong | [slides][54.1] |
@@ -79,7 +79,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 
 --
 
-### Month 5: Supervised Learning
+### Month 5: Visualization
 | Week | Readings | Repo | Lead Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Week 1 | <ul><li>[Machine Learning in Action][MLIA] (2.1, pg 18-24, 3.1 pg 37-48)</li><li>[Recursion][recursion]</li><li>[Recursion practice](readings/recursion)</li><li>Optional: [StatLearning][47.1] (8.1 pg 303-316)</li><li>[Decision Tree Visual Explanation][47.2]</li></ul> | [Decision Trees and k Nearest Neighbors][65] | Alex Seong | [slides][65.1] |
@@ -90,7 +90,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 
 --
 
-### Month 6: Special Topics/Unsupervised Learning
+### Month 6: Capstone Project
 | Week | Readings | Repo | Lead Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Week 1 | <ul><li>[Precourse - Web][75]</li><li>[Basic Web Scaping][76]</li><li>[Little book of MongoDB][76.1]</li></ul>| [Web Scraping][77] | Alex Seong | [slides][77.1] |
