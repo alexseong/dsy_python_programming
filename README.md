@@ -29,7 +29,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 
 | Month | Week | Topic |
 | --- | --- | --- |
-| 1 |  | [Python Programming Intro](#month-1-pythong-programming-intro) |
+| 1 |  | [Python Programming Intro](#month-1-python-programming-intro) |
 | 2 |  | [More Python](#month-2-more-python) |
 | 3 |  | [Math Programming with Numpy](#month-3-math-programming-with-numpy) |
 | 4 |  | [Data Analysis with Pandas](#month-4-data-analysis-with-pandas) |
@@ -48,7 +48,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 
 --
 
-### Month 2: Probability and Statistics, Plotting
+### Month 2: More Python
 | Week | Readings | Repo | Lead Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Week 1 | <ul><li>[Probability Review (1.2-4.3),  1 hour][25]</li></ul> | [Probability][28] | Alex Seong | [slides][28.1] |
