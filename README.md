@@ -92,10 +92,10 @@ This document covers much of what we'll teach you, but you are each other's grea
 ### Month 1: Python Programming Intro
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
-| Week 1 | <ul><li>[Development Workflow][1]</li><li>[Pair Programming][2]</li></ul> | [Assessment 1][2.1]<br><br>[Python Intro][3] | Alex Seong | [slides][3.1] |
-| Week 2 | <ul><li>[Learn Python the Hard Way (ex 40-42)][3.2]</li><li>Extra: Learn Python the Hard Way ex 43</ul> | [OOP][8] | Alex Seong | [slides][3.3]  |
-| Week 3 | <ul><li>[SQLZOO (tutorial: 1-9)][10]</li><li>[Visual Explanation of Joins][12]</li></ul> | [SQL][13] | Alex Seong | [slides][13.1] |
-| Week 4 | <ul><li>[Intro to IPython Notebook][18]</li><li>[10 minutes to Pandas][19] (not as cute as you would think)</li><li>[Pandas Top 10][21]</li><li>[EDA with pandas (Extra)][22]</li><li>[Data Wrangling with pandas (Extra)][20]</li></ul>| [sql-python][25.1]<br><br>[pandas][23] | Alex Seong | [sql-python slides][23.1]<br><br>[pandas slides][23.2] |
+| Week-1 | <ul><li>[Development Workflow][1]</li><li>[Pair Programming][2]</li></ul> | [Assessment 1][2.1]<br><br>[Python Intro][3] | Alex Seong | [slides][3.1] |
+| Week-2 | <ul><li>[Learn Python the Hard Way (ex 40-42)][3.2]</li><li>Extra: Learn Python the Hard Way ex 43</ul> | [OOP][8] | Alex Seong | [slides][3.3]  |
+| Week-3 | <ul><li>[SQLZOO (tutorial: 1-9)][10]</li><li>[Visual Explanation of Joins][12]</li></ul> | [SQL][13] | Alex Seong | [slides][13.1] |
+| Week-4 | <ul><li>[Intro to IPython Notebook][18]</li><li>[10 minutes to Pandas][19] (not as cute as you would think)</li><li>[Pandas Top 10][21]</li><li>[EDA with pandas (Extra)][22]</li><li>[Data Wrangling with pandas (Extra)][20]</li></ul>| [sql-python][25.1]<br><br>[pandas][23] | Alex Seong | [sql-python slides][23.1]<br><br>[pandas slides][23.2] |
 
 --
 
