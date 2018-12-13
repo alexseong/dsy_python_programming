@@ -1,4 +1,4 @@
-# Chapter 1:  Python Best Practices
+# Python Best Practices
 
 **Read all instructions below, then fill in the functions provided for you in each file located in the code folder**
 Practice makes perfect, therefore our first official Galvanize assignments will be just that.  Practicing python.  In particular we'll be getting more comfortable with Python built-in functions and data structures.
