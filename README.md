@@ -157,33 +157,9 @@ This document covers much of what we'll teach you, but you are each other's grea
 
 We will focus on a few canonical texts for the class and readings will be assigned from them. If they are not in a physical form in our library, they are located in digital form on the Time Capsule or the Internet.
 
-* [Doing Data Science](http://www.amazon.com/Doing-Data-Science-Straight-Frontline/dp/1449358659): One of the best treatments of the field with plenty of case studies.
 * [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do): Some of the `pandas` methods have changed (always reference `pandas` [online documentation](http://pandas.pydata.org/)) but a solid book on data analysis in Python.
-* [Practical Data Science with R](http://www.manning.com/zumel/): through we will not use R, this is a stellar book and we will use it for its content/theory
-
-## Getting Help
-
-* [Data Science Stack Exchange](http://datascience.stackexchange.com/)
-* [Stats Stack Exchange](http://stats.stackexchange.com/)
-* [MetaOptimize: ML and Datascience forum](http://metaoptimize.com/qa)
 
 ## References
-
-### Machine Learning
-
-* [Machine Learning in Action](http://www.manning.com/pharrington/)
-* [Programming Collective Intelligence](http://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325)
-* [Machine Learning for Hackers](http://shop.oreilly.com/product/0636920018483.do)
-* [An Introduction to Machine Learning](http://alex.smola.org/drafts/thebook.pdf)
-
-
-### Statistics
-
-* [Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
-* [Think Stats](http://www.greenteapress.com/thinkstats/)
-* [Think Bayes](http://www.greenteapress.com/thinkbayes/)
-* [All of Statistics](http://www.stat.cmu.edu/~larry/all-of-statistics/)
-* [Mostly Harmless Econometrics](http://www.amazon.com/Mostly-Harmless-Econometrics-Empiricists-Companion/dp/0691120358)
 
 ### Computer Science/Programming
 
@@ -201,14 +177,6 @@ We will focus on a few canonical texts for the class and readings will be assign
 * [Scientific Python Lectures](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb)
 * [Numpy Broadcasting](http://wiki.scipy.org/EricsBroadcastingDoc)
 * [Pyton Bootcamp Lectures](http://nbviewer.ipython.org/github/profjsb/python-bootcamp/blob/master/Lectures/05_NumpyMatplotlib/IntroNumPy.ipynb)
-
-### SQL
-
-* [http://sqlfiddle.com/](http://sqlfiddle.com/)
-* [http://use-the-index-luke.com/](http://use-the-index-luke.com/)
-* [http://missqlcommand.com/](http://missqlcommand.com/)
-* [http://sql.learncodethehardway.org/book/](http://sql.learncodethehardway.org/book/)
-* [SQL School](http://sqlschool.modeanalytics.com/)
 
 ### Scipy
 
