@@ -96,7 +96,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 | Week 2 | [Python Syntax 1][4.1] | [Python Intro 2][4] | Alex Seong | [slides][4.2]|
 | Week 3 | <ul><li>[Learn Python the Hard Way (ex 40-42)][5]</li><li>Extra: Learn Python the Hard Way ex 43</ul> | [OOP][5.2]<br>[Python Intro 3][5.3] | Alex Seong | [slides][5.1]  |
 | Week 4 | <ul><li>[Intro to IPython Notebook][6]</li><li>[Python Syntax 2][4.1]</li></ul>| [Python Intro 4][7] | Alex Seong | [slides][7.1] |
-
+| Week 4 | <ul><li>[Intro to IPython Notebook][6]</li><li>[Python Syntax 2][4.1]</li></ul>| [Python Intro 4][7] | Alex Seong | [slides][7.1] |
 --
 
 ### Month 2: More Python
