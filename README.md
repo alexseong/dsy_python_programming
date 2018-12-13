@@ -95,7 +95,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 | Week 1 | [Development Workflow][1] | [Assessment 1][2]<br><br>[Python Intro 1][3] | Alex Seong | [git-intro][3.1]<br><br>[slides][3.2] |
 | Week 2 | [Python Syntax 1][4.1] | [Python Intro 2][4] | Alex Seong | [slides][4.2]|
 | Week 3 | <ul><li>[Learn Python the Hard Way (ex 40-42)][5]</li><li>Extra: Learn Python the Hard Way ex 43</ul> | [OOP][5.2]<br>[Python Intro 3][5.3] | Alex Seong | [slides][5.1]  |
-| Week 4 | <ul><li>[Intro to IPython Notebook][6]</li><li>[Python Syntax 2][4.1]</li></ul>| [OOP][7]<br>[Python Intro 3][5.3] | Alex Seong | [slides][7.1]  |
+| Week 4 | <ul><li>[Intro to IPython Notebook][6]</li><li>[Python Syntax 2][4.1]</li></ul>| [OOP][5.4]<br>[Python Intro 3][5.3] | Alex Seong | [slides][5.5]  |
 | Week 4 | <ul><li>[Intro to IPython Notebook][6]</li><li>[Python Syntax 2][4.1]</li></ul>| [Python Intro 4][7] | Alex Seong | [slides][7.1] |
 --
 
@@ -212,8 +212,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [5.2]: https://github.com/alexseong/dsy_oop
 [5.3]: https://github.com/alexseong/dsy_python_intro_3
 [6]: http://nbviewer.ipython.org/github/jvns/pandas-cookbook/blob/master/cookbook/A%20quick%20tour%20of%20IPython%20Notebook.ipynb
-[7] : https://github.com/alexseong/dsy_python_intro_4
-[7.1]: https://github.com/alexseong/dsy_lectures/tree/master/python-intro/python_intro_4
+[5.4] : https://github.com/alexseong/dsy_python_intro_4
+[5.5]: https://github.com/alexseong/dsy_lectures/tree/master/python-intro/python_intro_4
 [10]: http://sqlzoo.net/wiki/Main_Page
 [11]: http://www.postgresql.org/docs/7.4/static/tutorial-start.html
 [12]: http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
