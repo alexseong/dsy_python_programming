@@ -164,8 +164,6 @@ We will focus on a few canonical texts for the class and readings will be assign
 ### Computer Science/Programming
 
 * [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.html)
-* [Algorithms (Papadimitriou)](http://www.cs.berkeley.edu/~vazirani/algorithms)
-* [Stacks and Queues](https://github.com/zipfian/graph-datastructures/tree/master/lecture/stacks_and_queues.md)
 * [Think Complexity: Analysis of Algorithms](http://www.greenteapress.com/compmod/html/thinkcomplexity004.html)
 
 
