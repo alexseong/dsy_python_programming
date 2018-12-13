@@ -98,7 +98,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 | Week 4 | <ul><li>[Intro to IPython Notebook][6]</li><li>[Python Syntax 2][6.1]</li></ul>| [Python Intro 4][6.2] | Alex Seong | [slides][6.3] |
 --
 
-### Month 2: More Python
+### Month 2: More Python 
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Week 1 | Prealgebra with Python | Assessment 2<br>[Prealgebra][26]  | Alex Seong | slides |
@@ -109,45 +109,43 @@ This document covers much of what we'll teach you, but you are each other's grea
 
 --
 
-### Month 3: Math Programming with Numpy
+### Month 3: Math and Scientific Programming with NumPy, SciPy, SymPy
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
-| Week 1 | <ul><li>[Power Analysis][39.4]</li><li>[Bayesian Statistics 1][40.0]</li></ul>  | [Power Calculation and Bayes][40] | Alex Seong | [slides][40.2] |
-| Week 2 | <ul><li>[Bayesian Statistics 2][40.3]</li><li>[Bayesian AB and Multi-Arm Bandit][40.4]</li></ul>| [Assessment 3.1][40.25]<br><br>[Multi-arm Bandit][44] | Alex Seong | [slides][40.5] |
-| Week 3 | <ul><li>[Linear Algebra and Numpy][45]</li><li>[StatLearning][47.1]: Linear Regression (3-3.2, pg 59-82)</li><li>Optional: [Linear Algebra Notes][45.1]</ul> | [Linear Algebra, EDA, Linear Regression ][48] | Alex Seong | [slides][45.2] |
-| Week 4 | <ul><li>[StatLearning][47.1]: Linear Regression cont'd (3.3-3.4, pg 82-104)</li></ul> | [Linear Regression 2][58] | Alex Seong | [slides][45.3] |
+| Week 1 | NumPy | Assessment 3<br>Introduction to NumPy, SciPy, SymPy | Alex Seong | slides |
+| Week 2 | Agebra with Numpy| Algebra with NumPy | Alex Seong | slides |
+| Week 3 | Probability 1 | Probability 1 | Alex Seong | slides |
+| Week 4 | Probability 2 | Probability 2 | Alex Seong | slides |
 
 --
 
 ### Month 4: Data Analysis with Pandas
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
-| Week 1 | <ul><li>[StatLearning][47.1]: Cross Validation (5-5.1.4, pg 175-184)</li><li>[StatLearning][47.1]: Shrinkage Methods (6.2, pg 214-228) (optional: pg 203-214)</li></ul> | [Cross Validation & Regularized Regression][54] | Alex Seong | [slides][54.1] |
-| Week 2 | <ul><li>[StatLearning][47.1]: Classification (4-4.4, pg 127-137)</li><li>[Machine Learning in Action][MLIA] (section 7.7, pg 142-148)</li></ul> | [Logistic Regression][log-reg] | Alex Seong | [slides][54.2] |
-| Week 3 | <ul><li>[Machine Learning in Action][MLIA] (ch 5, pg 83-90) (optional 90-96)</li><li>Optional (for more rigor): [Andrew Ng Notes (p. 1-7, 16-19)][51]</li></ul>| [Gradient Descent][52] | Alex Seong | [slides][54.3] |
-| Week 4 | <ul><li>[Data Science for Business][DSBus] (pg 194-203, 212-214)</li><li>Optional (mostly review): [Data Science for Business][DSBus] (rest of ch 7-8, pg 187-232)</li></ul> | [Assessment 3.2][40.35]  <br><br>[Profit Curves and Imbalanced Classes][profit] | Alex Seong | [slides][71.4] |
-| Week 5 | - | [Regression Case Study][71.5] | - | - |
+| Week 1 | <ul><li>10 Minutes to Pandas</li><li>Pandas Top 10</li></ul> | Assessment 4<br>Introduction Pandas | Alex Seong | slides |
+| Week 2 | EDA with Pandas | EDA | Alex Seong | slides |
+| Week 3 | Data Wrangling with pandas| Data Wrangling | Alex Seong | slides |
+| Week 4 | Plotting | pandas-matplitlib  | Alex Seong | slides |
 
 --
 
-### Month 5: Visualization
+### Month 5: Visualization and Basic Statistics
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
-| Week 1 | <ul><li>[Machine Learning in Action][MLIA] (2.1, pg 18-24, 3.1 pg 37-48)</li><li>[Recursion][recursion]</li><li>[Recursion practice](readings/recursion)</li><li>Optional: [StatLearning][47.1] (8.1 pg 303-316)</li><li>[Decision Tree Visual Explanation][47.2]</li></ul> | [Decision Trees and k Nearest Neighbors][65] | Alex Seong | [slides][65.1] |
-| Week 2 | <ul><li>[StatLearning][47.1] (8.1.2-8.2.2, pg 311-321)</li></ul> | [Bagging & Random Forests][68] | Alex Seong | [slides][68.1] |
-| Week 3 | <ul><li>[StatLearning][47.1] (8.2.3, pg 321-324)</li><li>Optional (more depth): [Elements of Stats Learning][esl] (10-10.6, pg 337-350)</li></ul> | [Boosting][boosting] | Alex Seong | [slides][71.3] |
-| Week 4 | <ul><li>[StatLearning][47.1] (9-9.2, pg 337-349)</li><li>Optional: [StatLearning][47.1] (9.3-9.3.2, pg 349-353)</li></ul> | [SVMs and Kernels][71] | Alex Seong | [slides][71.2] |
-| Week 5 | - | [Churn Prediction Case Study][200] | [Assessment 4][A4] | - |
+| Week 1 | More plotting | Seaborn and Plotly | Alex Seong | slides |
+| Week 2 | Basic Linear Algebra and Numpy | Linear Algebra and EDA | Alex Seong | slides |
+| Week 3 | Sampling and Estimation | Sampling and Estimation | Alex Seong | [slides][71.3] |
+| Week 4 | Hypothesis Testing | A/B Testing(or Linear Regression Intro)| Alex Seong | slides |
 
 --
 
 ### Month 6: Capstone Project
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
-| Week 1 | <ul><li>[Precourse - Web][75]</li><li>[Basic Web Scaping][76]</li><li>[Little book of MongoDB][76.1]</li></ul>| [Web Scraping][77] | Alex Seong | [slides][77.1] |
-| Week 2 | <ul><li>Text feature extraction (tf-idf) [I][tfidf1], [II][tfidf2], [III][tfidf3]</li><li>[Natural Language Processing with Python][NLP] (3.6, pg 107-108)</li><li>Optional: [Natural Language Processing with Python][NLP] (ch 3, pg 79-122)</li></ul> | [NLP][84] | Alex Seong | [slides][84.1] |
-| Week 3 | <ul><li> [StatLearning][47.1] (pg 385-400)</li></ul>| [KMeans and Hierarchical Clustering][104] | Alex Seong | [slides][104.1] |
-| Week 4 | <ul><li> [Forecasting: principles and practice][hyndman] (Ch. 1, 2, & 6-8) </li><li> [Time Series Analysis and Its Applications][timeseries] (ch 1-3)</li><li>[ARIMA models in Python][arima]</li></ul> | [Time Series][time-series] | Alex Seong | [slides][103.6] |
+| Week 1 | Project Proposal| Web Scraping | Alex Seong | slides |
+| Week 2 | Project Proposal| Web Products(Flask) | Alex Seong | slides |
+| Week 3 | Project Review | Project Review | Alex Seong | slides |
+| Week 4 | Project Presentation | Web or PPT | Alex Seong | slides |
 
 --
 
