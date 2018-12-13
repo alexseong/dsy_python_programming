@@ -158,7 +158,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 We will focus on a few canonical texts for the class and readings will be assigned from them. If they are not in a physical form in our library, they are located in digital form on the Time Capsule or the Internet.
 
 * [Think Python](http://www.greenteapress.com/thinkpython/html/index.html)[(pdf)](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
-* [Dyve into Python 3](http://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf)
+* [Dive into Python 3](http://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf)
 
 
 ## References
