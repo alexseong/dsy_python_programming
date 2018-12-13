@@ -37,6 +37,32 @@ In the notes folder, you'll find these things:
 * [Git issues](notes/git_issues.md): Commonly encountered git issues
 
 
+### How to submit the assignments.
+You will submit your solutions with a git [pull request](https://help.github.com/articles/using-pull-requests). Here are step-by-step instructions of how to do this:
+
+1. Fork this repository (go to https://github.com/zipfian/precourse and click "Fork")
+1. [Install git](https://help.github.com/articles/set-up-git) on your computer
+if you haven't already
+1. Clone your forked repository onto your computer: `git clone https://github.com/<your username>/precourse`
+1. Edit the assignment files with your solutions
+1. Add your changes to the repository: `git add <file you edited>`
+1. Commit your changes: `git commit -m "My solutions to precourse"`
+1. Push your changes to your fork: `git push origin master`
+1. Make a pull request by going to `https://github.com/<your username>/precourse` and clicking "Pull Requests" and then "New Pull Request". Then click "Create Pull Request". Put your name in the pull request title and then click "Create Pull Request" again.
+
+It's good idea to commit and push to your personal fork often, even when you're not done. Then you have older versions of your work in case you screw something up or lose something. We will get a notification of your submission once you submit a pull request.
+
+### Common git issues
+1. If we've made changes to the repository after you forked it and you want to update your repository to reflect them, you can run this command: `git pull https://github.com/zipfian/precourse master`
+
+2. If you try to push and get "Repository does not exist" this probably means that you cloned from the Zipfian repo rather than your fork. Make sure you did step 1 and created a fork. Then run this command to push: `git push https://github.com/<your username>/precourse master`
+
+### Getting help
+
+Feel free to contact us directly if you have any questions!
+
+Consult the [list of additional references and resources](Extra_Credit/references.md) if you'd like to further cover anything. The `Extra_Credit` directory also contains some additional references on operating systems and text editors as well as HTML/CSS/JavaScript.
+
 # Course Outline
 
 This is the outline for the course.  Each row represents a day, readings are to be completed before class on the given day.
@@ -44,7 +70,7 @@ This is the outline for the course.  Each row represents a day, readings are to 
 * __Week:__ Week of the Month
 * __Readings:__ Assigned readings for the day. To be completed before coming into class.
 * __Repo:__ The repo contains the day's exercise(s). You should be able to complete this in the time allotted (you will not have access until the day of).
-* __Lead Instructor:__ The instructor who is the point person for the day.
+* __Instructor:__ The instructor who is the point person for the day.
 * __Slides:__ The day's lecture notes and slides
 
 This document covers much of what we'll teach you, but you are each other's greatest resource and will ultimately learn the most from each other.
@@ -63,7 +89,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 --
 
 ### Month 1: Python Programming Intro
-| Week | Readings | Repo | Lead Instructor | Slides |
+| Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Week 1 | <ul><li>[Development Workflow][1]</li><li>[Pair Programming][2]</li></ul> | [Assessment 1][2.1]<br><br>[Python Intro][3] | Alex Seong | [slides][3.1] |
 | Week 2 | <ul><li>[Learn Python the Hard Way (ex 40-42)][3.2]</li><li>Extra: Learn Python the Hard Way ex 43</ul> | [OOP][8] | Alex Seong | [slides][3.3]  |
@@ -73,7 +99,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 --
 
 ### Month 2: More Python
-| Week | Readings | Repo | Lead Instructor | Slides |
+| Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Week 1 | <ul><li>[Probability Review (1.2-4.3),  1 hour][25]</li></ul> | [Probability][28] | Alex Seong | [slides][28.1] |
 | Week 2 | <ul><li>[Bootstrapping Intro][38.1]</li><li>[Central Limit Theorem][40.1]</li><li>[Confidence Interval][38.0]</li><li>[Confidence Interval 2][38.01]</li><li>[MLE][38.2]</li></ul> | [Sampling and Estimation][38] | Alex Seong | [slides][38.3] |
@@ -83,7 +109,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 --
 
 ### Month 3: Math Programming with Numpy
-| Week | Readings | Repo | Lead Instructor | Slides |
+| Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Week 1 | <ul><li>[Power Analysis][39.4]</li><li>[Bayesian Statistics 1][40.0]</li></ul>  | [Power Calculation and Bayes][40] | Alex Seong | [slides][40.2] |
 | Week 2 | <ul><li>[Bayesian Statistics 2][40.3]</li><li>[Bayesian AB and Multi-Arm Bandit][40.4]</li></ul>| [Assessment 3.1][40.25]<br><br>[Multi-arm Bandit][44] | Alex Seong | [slides][40.5] |
@@ -93,7 +119,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 --
 
 ### Month 4: Data Analysis with Pandas
-| Week | Readings | Repo | Lead Instructor | Slides |
+| Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Week 1 | <ul><li>[StatLearning][47.1]: Cross Validation (5-5.1.4, pg 175-184)</li><li>[StatLearning][47.1]: Shrinkage Methods (6.2, pg 214-228) (optional: pg 203-214)</li></ul> | [Cross Validation & Regularized Regression][54] | Alex Seong | [slides][54.1] |
 | Week 2 | <ul><li>[StatLearning][47.1]: Classification (4-4.4, pg 127-137)</li><li>[Machine Learning in Action][MLIA] (section 7.7, pg 142-148)</li></ul> | [Logistic Regression][log-reg] | Alex Seong | [slides][54.2] |
@@ -104,7 +130,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 --
 
 ### Month 5: Visualization
-| Week | Readings | Repo | Lead Instructor | Slides |
+| Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Week 1 | <ul><li>[Machine Learning in Action][MLIA] (2.1, pg 18-24, 3.1 pg 37-48)</li><li>[Recursion][recursion]</li><li>[Recursion practice](readings/recursion)</li><li>Optional: [StatLearning][47.1] (8.1 pg 303-316)</li><li>[Decision Tree Visual Explanation][47.2]</li></ul> | [Decision Trees and k Nearest Neighbors][65] | Alex Seong | [slides][65.1] |
 | Week 2 | <ul><li>[StatLearning][47.1] (8.1.2-8.2.2, pg 311-321)</li></ul> | [Bagging & Random Forests][68] | Alex Seong | [slides][68.1] |
@@ -115,7 +141,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 --
 
 ### Month 6: Capstone Project
-| Week | Readings | Repo | Lead Instructor | Slides |
+| Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Week 1 | <ul><li>[Precourse - Web][75]</li><li>[Basic Web Scaping][76]</li><li>[Little book of MongoDB][76.1]</li></ul>| [Web Scraping][77] | Alex Seong | [slides][77.1] |
 | Week 2 | <ul><li>Text feature extraction (tf-idf) [I][tfidf1], [II][tfidf2], [III][tfidf3]</li><li>[Natural Language Processing with Python][NLP] (3.6, pg 107-108)</li><li>Optional: [Natural Language Processing with Python][NLP] (ch 3, pg 79-122)</li></ul> | [NLP][84] | Alex Seong | [slides][84.1] |
