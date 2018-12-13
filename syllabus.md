@@ -66,17 +66,16 @@ Course Requirements
 
 Please always email your instructor or teaching assistant in advance if you will be missing any day of class.  It is an accelerated program that builds on itself, so please try to make it every week of class.  
 
-<!- - Once a student has received two unexcused absences the student will receive a warning from the Registrar and be placed on probation.
-- After a student has received three unexcused absences the student is subject to automatic administrative dismissal at the discretion of the instructor.->
-
 ### Assessments
 Pythong programming students will have regular monthly written assessments to check for understanding on the material and skills covered that month.  Those students who have received less than cumulative average of 30% score on assessments will be placed on academic probation and required to show improvement before the following written assessment. Assessment-1 is a diagnostic test on day 1, and will not count towards the average.  The Final assessment is weighed 40% and will count significantly towards the final score.  
 
 Assessment-2:  20%, Assessment-3:  20%, Assessment-4:  20%, Final Assessment:  40%
 
-Students who are underperforming will be informed of their progress by an instructor and indicated in the official student files.  <!If a student on probation continues to perform below this minimum level after the next written assessment could be administratively withdrawn from the program.>  
+Students who are underperforming will be informed of their progress by an instructor and indicated in the official student files.  
 
-Each question in an assessment follows the below **grading scheme**:
+Each question in an assessment follows the below 
+
+**grading scheme**:
 
 * Grade out of 3 points:
     - 0 points: No response, or basically no idea

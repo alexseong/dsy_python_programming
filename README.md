@@ -35,7 +35,7 @@ In the notes folder, you'll find these things:
 * [setup.sh](notes/setup.sh): Script for setting up your environment    
 * [Workflow](notes/workflow.md): Notes on programming workflow
 * [Git issues](notes/git_issues.md): Commonly encountered git issues
-<!* [Postgres setup](notes/postgres_setup.md): Notes on setting up postgres>
+
 
 # Course Outline
 
