@@ -101,7 +101,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 ### Month 2: More Python
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
-| Week 1 | <ul><li>[Probability Review (1.2-4.3),  1 hour][25]</li></ul> | [Probability][28] | Alex Seong | [slides][28.1] |
+| Week 1 | Prealgebra with Python | Assessment 2 | Alex Seong | slides |
 | Week 2 | <ul><li>[Bootstrapping Intro][38.1]</li><li>[Central Limit Theorem][40.1]</li><li>[Confidence Interval][38.0]</li><li>[Confidence Interval 2][38.01]</li><li>[MLE][38.2]</li></ul> | [Sampling and Estimation][38] | Alex Seong | [slides][38.3] |
 | Week 3 | No Readings | [pandas-seaborn][24.1]<br><br>[Assessment 2][28.0] |  Alex Seong | [slides][24.2] |
 | Week 4 | <ul><li>[z-test VS t-test][39.1]</li><li>[Hypothesis Testing][39.2]</li></ul> | [Frequentist Hypothesis Testing][39] | Alex Seong | [slides][39.3] |
