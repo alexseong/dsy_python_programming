@@ -194,7 +194,6 @@ We will focus on a few canonical texts for the class and readings will be assign
 ### Extra
 
 * [University of Colorado Computational Science workshops](http://researchcomputing.github.io/meetup_spring_2014/)
-* [Networkx tutorial](http://snap.stanford.edu/class/cs224w-2012/nx_tutorial.pdf)
 
 <!-- ************************** References **************************************** -->
 
