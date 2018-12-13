@@ -101,7 +101,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 ### Month 2: More Python
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
-| Week 1 | Prealgebra with Python | Assessment 2 | Alex Seong | slides |
+| Week 1 | Prealgebra with Python | Assessment 2<br><br>[Prealgebra][3]  | Alex Seong | slides |
 | Week 2 | <ul><li>[Bootstrapping Intro][38.1]</li><li>[Central Limit Theorem][40.1]</li><li>[Confidence Interval][38.0]</li><li>[Confidence Interval 2][38.01]</li><li>[MLE][38.2]</li></ul> | [Sampling and Estimation][38] | Alex Seong | [slides][38.3] |
 | Week 3 | No Readings | [pandas-seaborn][24.1]<br><br>[Assessment 2][28.0] |  Alex Seong | [slides][24.2] |
 | Week 4 | <ul><li>[z-test VS t-test][39.1]</li><li>[Hypothesis Testing][39.2]</li></ul> | [Frequentist Hypothesis Testing][39] | Alex Seong | [slides][39.3] |
@@ -197,7 +197,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- PLEASE DO NOT REMOVE ANY OF THESE LINKS (Just add more if you need to change anything with syllabus) -->
 
-<!-- Week 1 -->
+<!-- Month 1 -->
 [1]: notes/workflow.md
 [2]: https://github.com/alexseong/dsy_python_assessment-1
 [3]: https://github.com/alexseong/dsy_python_intro_1
@@ -232,8 +232,9 @@ We will focus on a few canonical texts for the class and readings will be assign
 [24.2]: https://github.com/zipfian/DSI_Lectures/tree/master/pandas-seaborn
 [25.1]: https://github.com/zipfian/sql-python
 
-<!-- Week 2 -->
+<!-- Month 2 -->
 [25]: http://cs229.stanford.edu/section/cs229-prob.pdf
+[26]: https://github.com/alexseong/dsy_python_prealgebra
 [28.0]: https://github.com/zipfian/assessment-week2
 [28.1]: https://github.com/zipfian/DSI_Lectures/tree/master/probability
 [28]: https://github.com/zipfian/probability
