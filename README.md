@@ -92,7 +92,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 ### Month 1: Python Programming Intro
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
-| Week 1 | [Development Workflow][1] | [Assessment 1][2]<br><br>[Python Intro][3] | Alex Seong | [git-intro][3.1]<br><br>[slides][3.2] |
+| Week 1 | [Development Workflow][1] | [Assessment 1][2]<br><br>[Python Intro 1][3] | Alex Seong | [git-intro][3.1]<br><br>[slides][3.2] |
 | Week 2 | <ul><li>[Learn Python the Hard Way (ex 40-42)][3.2]</li><li>Extra: Learn Python the Hard Way ex 43</ul> | [OOP][8] | Alex Seong | [slides][3.3]  |
 | Week 3 | <ul><li>[SQLZOO (tutorial: 1-9)][10]</li><li>[Visual Explanation of Joins][12]</li></ul> | [SQL][13] | Alex Seong | [slides][13.1] |
 | Week 4 | <ul><li>[Intro to IPython Notebook][18]</li><li>[10 minutes to Pandas][19] (not as cute as you would think)</li><li>[Pandas Top 10][21]</li><li>[EDA with pandas (Extra)][22]</li><li>[Data Wrangling with pandas (Extra)][20]</li></ul>| [sql-python][25.1]<br><br>[pandas][23] | Alex Seong | [sql-python slides][23.1]<br><br>[pandas slides][23.2] |
@@ -201,7 +201,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Week 1 -->
 [1]: notes/workflow.md
 [2]: https://github.com/alexseong/dsy_python_assessment-1
-[3]: https://github.com/alexseong/dsy_python_intro
+[3]: https://github.com/alexseong/dsy_python_intro_1
 [3.1]: https://github.com/alexseong/dsy_lectures/tree/master/intro-git
 [3.2]: https://github.com/alexseong/dsy_lectures/tree/master/python-intro
 [3.3]: http://learnpythonthehardway.org/book/ex40.html
