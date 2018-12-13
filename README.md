@@ -1,4 +1,28 @@
-## Pyhton programming course as a prerequisite for Data Science Regular Course 
+# Pyhton Programming Course 
+
+> "I wish I did more Pythong programming and Statistical Learniing courses."  
+
+— Every Data Science regular program students
+
+<br>
+__Goal__: Improve your programming skills to intermediate level with Python 
+and get you ready to jump into our Data Science regular program curriculum on day 1
+
+<br>
+* Regular python programming course for beginner and intermediate
+* Focusing on data processing and math problem solving
+* Capstone project
+
+<br>
+
+
+Please read this entire document before getting started on the individual sections.
+
+Before classes begin, you are expected read the contents in each chapter, complete the code assignments for every chapter, and turn them in.
+
+Please complete and hand in each chapter sequentially.
+
+
 
 
 # Notes
