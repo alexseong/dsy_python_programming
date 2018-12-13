@@ -1,10 +1,7 @@
 # Extra Credit
-1. [Applied Data Science (Part 1)](http://columbia-applied-data-science.github.io/appdatasci.pdf): Create an automated data pipeline
 1. [shell](shell.md)
 1. [git](git.md)
 1. [markdown tutorial](http://markdowntutorial.com/)
-1. [Theory (math/stats/prob)](theory.md)
-1. [Intro to Machine Learning (with sklearn)](http://nbviewer.ipython.org/github/fonnesbeck/Bios366/blob/master/notebooks/Section6_1-Scikit-Learn.ipynb)
 
 ## Operating system
 We'll use provide standard GNU/Linux computers during the course, so you won't
