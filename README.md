@@ -101,10 +101,10 @@ This document covers much of what we'll teach you, but you are each other's grea
 ### Month 2: More Python
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
-| Week 1 | Prealgebra with Python | Assessment 2<br><br>[Prealgebra][26]  | Alex Seong | slides |
-| Week 2 | <ul><li>Prealgebra with Python</li><li>Algebra1 with Python</li></ul> | [Prealgebra][26]<br><br>[Algebra1][26.1]  | Alex Seong | slides<br><br>slides |
-| Week 3 | <ul><li>Prealgebra with Python</li><li>Algebra1 with Python</li><li>Algebra2 with Python</li></ul> | [Prealgebra][26]<br><br>[Algebra1][26.1]<br><br>[Algebra2][26.2]  | Alex Seong | slides<br><br>slides<br><br>slides |
-| Week 4 | <ul><li>Prealgebra with Python</li><li>Algebra1 with Python</li><li>Algebra2 with Python</li><li>Geometry with Python</li></ul> | [Prealgebra][26]<br><br>[Algebra1][26.1]<br><br>[Algebra2][26.2]<br><br>[Geometry][26.3]  | Alex Seong | slides<br><br>slides<br><br>slides |
+| Week 1 | Prealgebra with Python | Assessment 2<br>[Prealgebra][26]  | Alex Seong | slides |
+| Week 2 | <ul><li>Prealgebra with Python</li><li>Algebra1 with Python</li></ul> | [Prealgebra][26]<br>[Algebra1][26.1]  | Alex Seong | slides<br><br>slides |
+| Week 3 | <ul><li>Prealgebra with Python</li><li>Algebra1 with Python</li><li>Algebra2 with Python</li></ul> | [Prealgebra][26]<br>[Algebra1][26.1]<br>[Algebra2][26.2]  | Alex Seong | slides<br>slides<br>slides |
+| Week 4 | <ul><li>Prealgebra with Python</li><li>Algebra1 with Python</li><li>Algebra2 with Python</li><li>Geometry with Python</li></ul> | [Prealgebra][26]<br>[Algebra1][26.1]<br>[Algebra2][26.2]<br>[Geometry][26.3]  | Alex Seong | slides<br>slides<br>slides |
 
 
 --
