@@ -19,15 +19,3 @@ List below are many great references to get a deeper dive in each of these topic
 * [bpython](http://bpython-interpreter.org/about/): Interactively learn Python through a hyper-interactive REPL
 * [Python Koans](https://bitbucket.org/gregmalcolm/python_koans): TDD approach to learning Python
 * [Functional Programming in Python](https://github.com/kialio/python-bootcamp/raw/master/Lectures/07_AdvancedInteractions/day2_advanced_interactions.pdf)
-
-### Machine Learning
-
-* [Andrew Ng: Machine Learning Coursera](https://www.coursera.org/course/ml)
-* [scikit-learn tutorial](http://scikit-learn.org/stable/tutorial/statistical_inference/supervised_learning.html)
-
-### SQL
-
-* [A Gentle introduction to SQL](https://github.com/zipfian/SQL-Tutorial)
-* [The fast-track, hands-on, no-nonsense introduction to SQL](https://github.com/dserban/WebDevCourseMaterials/tree/master/1-intro-to-sql)
-* [SQL for Data Scienctists](http://bensresearch.com/downloads/SQL.pdf)
-* [yHat: 7 Handy SQL methods](http://blog.yhathq.com/posts/sql-for-data-scientists.html)
