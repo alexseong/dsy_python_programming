@@ -93,10 +93,9 @@ This document covers much of what we'll teach you, but you are each other's grea
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Week 1 | [Development Workflow][1] | [Assessment 1][2]<br><br>[Python Intro 1][3] | Alex Seong | [git-intro][3.1]<br><br>[slides][3.2] |
-| Week 2 | [Python Syntax][4.1] | [Python Intro 2][4] | Alex Seong | [slides][4.2]|
+| Week 2 | [Python Syntax 1][4.1] | [Python Intro 2][4] | Alex Seong | [slides][4.2]|
 | Week 3 | <ul><li>[Learn Python the Hard Way (ex 40-42)][5]</li><li>Extra: Learn Python the Hard Way ex 43</ul> | <ul><li>[OOP][5.2]</li><li>[Python Intro 3][5.3]</li></ul> | Alex Seong | [slides][5.1]  |
-| Week 3 | <ul><li>[SQLZOO (tutorial: 1-9)][10]</li><li>[Visual Explanation of Joins][12]</li></ul> | [SQL][13] | Alex Seong | [slides][13.1] |
-| Week 4 | <ul><li>[Intro to IPython Notebook][18]</li><li>[10 minutes to Pandas][19] (not as cute as you would think)</li><li>[Pandas Top 10][21]</li><li>[EDA with pandas (Extra)][22]</li><li>[Data Wrangling with pandas (Extra)][20]</li></ul>| [sql-python][25.1]<br><br>[pandas][23] | Alex Seong | [sql-python slides][23.1]<br><br>[pandas slides][23.2] |
+| Week 4 | <ul><li>[Intro to IPython Notebook][18]</li><li>[Python Syntax 1][4.1]</li></ul>| [Python Intro 4][6] | Alex Seong | [slides][6.1] |
 
 --
 
@@ -212,6 +211,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 [5.1]: https://github.com/alexseong/dsy_lectures/tree/master/OOP
 [5.2]: https://github.com/alexseong/dsy_oop
 [5.3]: https://github.com/alexseong/dsy_python_intro_3
+[6] : https://github.com/alexseong/dsy_python_intro_4
+[6.1]: https://github.com/alexseong/dsy_lectures/tree/master/python-intro/python_intro_4
 [10]: http://sqlzoo.net/wiki/Main_Page
 [11]: http://www.postgresql.org/docs/7.4/static/tutorial-start.html
 [12]: http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
