@@ -57,6 +57,11 @@ It's good idea to commit and push to your personal fork often, even when you're 
 
 2. If you try to push and get "Repository does not exist" this probably means that you cloned from the Institute repo rather than your fork. Make sure you did step 1 and created a fork. Then run this command to push: `git push https://github.com/<your username>/dsy_python_programming master`
 
+### Getting help
+
+Feel free to contact us directly if you have any questions!
+
+Consult the [list of additional references and resources](Extra_Credit/references.md) if you'd like to further cover anything. The `Extra_Credit` directory also contains some additional references on operating systems and text editors as well as HTML/CSS/JavaScript.
 
 
 # Course Outline
