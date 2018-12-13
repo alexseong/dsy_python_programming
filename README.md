@@ -10,6 +10,7 @@ and get you ready to jump into our Data Science regular program curriculum on da
 
 <br>
 
+>
 * Regular python programming course for beginner and intermediate
 * Focusing on data processing and math problem solving
 * Capstone project
