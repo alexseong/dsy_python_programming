@@ -1,24 +1,21 @@
-Data Science Immersive Program Syllabus
+Python Programming Syllabus
 ====
 
 Logistics:
 ---
 __Instructors:__
 - [Alex Seong](mailto:alex.y.seong@gmail.com )
-- [Ken Park](mailto:alex.y.seong@gmail.com )
-- [Brad Jacobs](mailto:alex.y.seong@gmail.com )
+- [David](mailto: )
 
-__Data-Scientist-in-Residence:__
-- [Nicholas Sung](mailto:alex.y.seong@gmail.com)
-- [Brent D'Adamo](mailto:alex.y.seong@gmail.com )
+__Teaching Assistant:__
+- [David](mailto:)
 
 __Course Producer:__
-
 - [Alex Seong](mailto:alex.y.seong@gmail.com)  
 
-__Class Location:__ 4921 Dogwood St., Flower Mound, TX 75028  <br>
-__Class Hours:__ 9:30-6:30pm <br>
-__Office Hours:__   youcanbook.me
+__Class Location:__ 6505 W. Park Blvd. Suite 160, Plano, TX 75093  <br>
+__Class Hours:__ 5:00-7:00pm <br>
+__Office Hours:__   
 
 
 Table of Contents
@@ -36,7 +33,7 @@ Grounded in Python, our program covers all the necessary tools and concepts used
 
 Daily Schedule
 ----
-The classroom hours are 9:30am-6:30pm every day. This is the standard schedule.
+The classroom hours are 6:00pm-8:00pm every day. This is the standard schedule.
 
 | Time    | Activity                                                    |
 | ------- | ----------------------------------------------------------- |
