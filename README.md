@@ -32,12 +32,10 @@ Please complete and hand in each chapter sequentially.
 In the notes folder, you'll find these things:
 
 * [Syllabus](syllabus.md): Full syllabus including the daily schedule, instructor contact info, and course requirements
-* [setup.sh](notes/setup.sh): Script for setting up your environment
-* [Pairing](notes/pairing.md): Notes on how to pair program
+* [setup.sh](notes/setup.sh): Script for setting up your environment    
 * [Workflow](notes/workflow.md): Notes on programming workflow
 * [Git issues](notes/git_issues.md): Commonly encountered git issues
-* [Postgres setup](notes/postgres_setup.md): Notes on setting up postgres
-* [Blogging](notes/blog): Notes on creating a blog
+<!* [Postgres setup](notes/postgres_setup.md): Notes on setting up postgres>
 
 # Course Outline
 
