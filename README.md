@@ -157,14 +157,15 @@ This document covers much of what we'll teach you, but you are each other's grea
 
 We will focus on a few canonical texts for the class and readings will be assigned from them. If they are not in a physical form in our library, they are located in digital form on the Time Capsule or the Internet.
 
-* [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do): Some of the `pandas` methods have changed (always reference `pandas` [online documentation](http://pandas.pydata.org/)) but a solid book on data analysis in Python.
+* [Think Python](http://www.greenteapress.com/thinkpython/html/index.html)[(pdf)](http://www.greenteapress.com/thinkpython/thinkpython.pdf)
+* [Dyve into Python 3](http://histo.ucsf.edu/BMS270/diveintopython3-r802.pdf)
+
 
 ## References
 
-### Computer Science/Programming
+### Data Analysis with Python
 
-* [Think Python](http://www.greenteapress.com/thinkpython/thinkpython.html)
-* [Think Complexity: Analysis of Algorithms](http://www.greenteapress.com/compmod/html/thinkcomplexity004.html)
+* [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do): Some of the `pandas` methods have changed (always reference `pandas` [online documentation](http://pandas.pydata.org/)) but a solid book on data analysis in Python.
 
 
 ### Numpy
