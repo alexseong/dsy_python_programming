@@ -1,4 +1,4 @@
-# Pyhton Programming Course 
+# Python Programming Course 
 
 > "I wish I did more Pythong programming and Statistical Learniing courses."  
 
@@ -9,6 +9,7 @@ __Goal__: Improve your programming skills to intermediate level with Python
 and get you ready to jump into our Data Science regular program curriculum on day 1
 
 <br>
+
 * Regular python programming course for beginner and intermediate
 * Focusing on data processing and math problem solving
 * Capstone project
