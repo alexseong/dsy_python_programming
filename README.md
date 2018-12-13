@@ -134,7 +134,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 |:--:|:--:|:--|:--:|:--:|
 | Week 1 | More plotting | Seaborn and Plotly | Alex Seong | slides |
 | Week 2 | Basic Linear Algebra and Numpy | Linear Algebra and EDA | Alex Seong | slides |
-| Week 3 | Sampling and Estimation | Sampling and Estimation | Alex Seong | [slides][71.3] |
+| Week 3 | Sampling and Estimation | Sampling and Estimation | Alex Seong | slides |
 | Week 4 | Hypothesis Testing | A/B Testing(or Linear Regression Intro)| Alex Seong | slides |
 
 --
