@@ -201,7 +201,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [1]: notes/workflow.md
 [2]: https://github.com/alexseong/dsy_python_assessment-1
 [3]: https://github.com/alexseong/dsy_python_intro_1
-[3.1]: https://github.com/alexseong/dsy_lectures/tree/master/intro-git
+[3.1]: https://github.com/alexseong/dsy_lectures/tree/master/intro-git/intro-git.pdf
 [3.2]: https://github.com/alexseong/dsy_lectures/tree/master/python-intro/python_intro_1
 [4]: https://github.com/alexseong/dsy_python_intro_2
 [4.1]: notes/python_syntax
