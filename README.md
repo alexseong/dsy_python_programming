@@ -174,6 +174,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 * [Scientific Python Lectures](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb)
 * [Numpy Broadcasting](http://wiki.scipy.org/EricsBroadcastingDoc)
 * [Pyton Bootcamp Lectures](http://nbviewer.ipython.org/github/profjsb/python-bootcamp/blob/master/Lectures/05_NumpyMatplotlib/IntroNumPy.ipynb)
+* [Prealgebra via Python Programming: First steps to perform large scale computational tasks in the Sciences and Engineerings](https://www.researchgate.net/publication/325473565_Prealgebra_via_Python_Programming_First_steps_to_perform_large_scale_computational_tasks_in_the_Sciences_and_Engineerings) 
 
 ### Scipy
 
