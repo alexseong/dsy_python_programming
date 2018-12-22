@@ -122,7 +122,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 ### Month 4: Data Analysis with Pandas
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
-| Week 1 | <ul><li>10 Minutes to Pandas</li><li>Pandas Top 10</li></ul> | Assessment 4<br>[Introduction Pandas][65] | Alex Seong | slides |
+| Week 1 | <ul><li>10 Minutes to Pandas</li><li>Pandas Top 10</li></ul> | Assessment 4<br>[Introduction Pandas][65] | Alex Seong | [slides][65.1] |
 | Week 2 | EDA with Pandas | EDA | Alex Seong | slides |
 | Week 3 | Data Wrangling with pandas| Data Wrangling | Alex Seong | slides |
 | Week 4 | Plotting | pandas-matplitlib  | Alex Seong | slides |
@@ -281,7 +281,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [47.1]: http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf
 [47.2]: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 [65]: https://github.com/alexseong/dsy_pandas
-[65.1]: https://github.com/zipfian/DSI_Lectures/tree/master/non-parametric-learners
+[65.1]: https://github.com/alexseong/dsy_lectures/blob/master/pandas-tutorial/isaac/pandas-lecture.ipynb
 [68]: https://github.com/zipfian/random-forest
 [68.1]: https://github.com/zipfian/DSI_Lectures/tree/master/random-forest
 [71]: https://github.com/zipfian/svm
