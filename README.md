@@ -92,7 +92,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 ### Month 1: Python Programming Intro
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
-| Week 1 | [Development Workflow][1] | [Assessment 1][2]<br><br>[Python Intro 1][3] | Alex Seong | [git-intro][3.1]<br><br>[slides][3.2] |
+| Week 1 | [Development Workflow][1]<br><br>[Python Installation][1.1] | [Assessment 1][2]<br><br>[Python Intro 1][3] | Alex Seong | [git-intro][3.1]<br><br>[slides][3.2] |
 | Week 2 | [Python Syntax 1][4.1] | [Python Intro 2][4] | Alex Seong | [slides][4.2]|
 | Week 3 | <ul><li>[Learn Python the Hard Way (ex 40-42)][5]</li><li>Extra: Learn Python the Hard Way ex 43</ul> | [OOP][5.2]<br>[Python Intro 3][5.3] | Alex Seong | [slides][5.1]  |
 | Week 4 | <ul><li>[Intro to IPython Notebook][6]</li><li>[Python Syntax 2][6.1]</li></ul>| [Python Intro 4][6.2] | Alex Seong | [slides][6.3] |
@@ -199,6 +199,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 <!-- Month 1 -->
 [1]: notes/workflow.md
+[1.1]: notes/installation.md
 [2]: https://github.com/alexseong/dsy_python_assessment-1
 [3]: https://github.com/alexseong/dsy_python_intro_1
 [3.1]: https://github.com/alexseong/dsy_lectures/tree/master/intro-git/intro-git.pdf
