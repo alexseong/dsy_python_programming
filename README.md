@@ -93,14 +93,17 @@ This document covers much of what we'll teach you, but you are each other's grea
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Week 1 | [Development Workflow][1]<br><br>[Python Installation][1.1] | [Assessment 1][2]<br><br>[Python Intro 1][3] | Alex Seong | [git-intro][3.1]<br><br>[slides][3.2] |
-| Week 2 | [Python Syntax 1][4.1] | [Python Intro 2][4] | Alex Seong | [slides1][4.2]<br>[slides2][4.3]<br>[slides3][4.4]|
-| Week 3 | <ul><li>[Learn Python the Hard Way (ex 40-42)][5]</li><li>Extra: Learn Python the Hard Way ex 43</ul> | [OOP][5.2]<br>[Python Intro 3][5.3] | Alex Seong | [slides][5.1]  |
-| Week 4 | <ul><li>[Intro to IPython Notebook][6]</li><li>[Python Syntax 2][6.1]</li></ul>| [Python Intro 4][6.2] | Alex Seong | [slides][6.3] |
+| Week 2 | [Python Syntax 1][4.1] | [Python Intro 2][4] | Alex Seong | [slide1][4.2]<br>[slide2][4.3]<br>[slide3][4.4]|
+| Week 3 | <ul><li>[Intro to IPython Notebook][6]</li><li>[Python Syntax 2][6.1]</li></ul>| [Python Intro 3][6.2] | Alex Seong | [slide1][6.3]<br>[slide2][6.4]<br>[slide3][6.5] |
+| Week 4 | [Python Syntax 3][6.1] | [Python Intro 4][7] | Alex Seong | [slide1][7.1]<br>[slide2][7.2]<br>[slide3][7.3]  |
+
 --
 
 ### Month 2: More Python 
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
+| Week 4 | <ul><li>[Learn Python the Hard Way (ex 40-42)][5]</li><li>Extra: Learn Python the Hard Way ex 43</ul> | [OOP][5.2]<br>[Python Intro 5][5.3] | Alex Seong | [slides][5.1]  |
+
 | Week 1 | Prealgebra with Python | Assessment 2<br>[Prealgebra][26]  | Alex Seong | slides |
 | Week 2 | <ul><li>Prealgebra with Python</li><li>Algebra1 with Python</li></ul> | [Prealgebra][26]<br>[Algebra1][26.1]  | Alex Seong | slides<br><br>slides |
 | Week 3 | <ul><li>Prealgebra with Python</li><li>Algebra1 with Python</li><li>Algebra2 with Python</li></ul> | [Prealgebra][26]<br>[Algebra1][26.1]<br>[Algebra2][26.2]  | Alex Seong | slides<br>slides<br>slides |
