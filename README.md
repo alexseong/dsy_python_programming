@@ -93,7 +93,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Week 1 | [Development Workflow][1]<br><br>[Python Installation][1.1] | [Assessment 1][2]<br><br>[Python Intro 1][3] | Alex Seong | [git-intro][3.1]<br><br>[slides][3.2] |
-| Week 2 | [Python Syntax 1][4.1] | [Python Intro 2][4] | Alex Seong | [slides][4.2]|
+| Week 2 | [Python Syntax 1][4.1] | [Python Intro 2][4] | Alex Seong | [slides1][4.2]<br>[slides2][4.3]<br>[slides3][4.4]|
 | Week 3 | <ul><li>[Learn Python the Hard Way (ex 40-42)][5]</li><li>Extra: Learn Python the Hard Way ex 43</ul> | [OOP][5.2]<br>[Python Intro 3][5.3] | Alex Seong | [slides][5.1]  |
 | Week 4 | <ul><li>[Intro to IPython Notebook][6]</li><li>[Python Syntax 2][6.1]</li></ul>| [Python Intro 4][6.2] | Alex Seong | [slides][6.3] |
 --
@@ -206,7 +206,9 @@ We will focus on a few canonical texts for the class and readings will be assign
 [3.2]: https://github.com/alexseong/dsy_python_intro_1/tree/master/lectures/python_intro_1.pdf
 [4]: https://github.com/alexseong/dsy_python_intro_2
 [4.1]: notes/python_syntax
-[4.2]: https://github.com/alexseong/dsy_python_intro_2/tree/master/lectures/python_intro_2.pdf
+[4.2]: https://github.com/alexseong/dsy_python_intro_2/tree/master/lectures/python_intro_2.1.pdf
+[4.3]: https://github.com/alexseong/dsy_python_intro_2/tree/master/lectures/python_intro_2.2.pdf
+[4.3]: https://github.com/alexseong/dsy_python_intro_2/tree/master/lectures/python_intro_2.3.pdf
 [5]: http://learnpythonthehardway.org/book/ex40.html
 [5.1]: https://github.com/alexseong/dsy_lectures/tree/master/OOP
 [5.2]: https://github.com/alexseong/dsy_oop
