@@ -206,7 +206,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [3.2]: https://github.com/alexseong/dsy_python_intro_1/tree/master/lectures/python_intro_1.pdf
 [4]: https://github.com/alexseong/dsy_python_intro_2
 [4.1]: notes/python_syntax
-[4.2]: https://github.com/alexseong/dsy_lectures/tree/master/python-intro/python_intro_2
+[4.2]: https://github.com/alexseong/dsy_python_intro_2/tree/master/lectures/python_intro_2.pdf
 [5]: http://learnpythonthehardway.org/book/ex40.html
 [5.1]: https://github.com/alexseong/dsy_lectures/tree/master/OOP
 [5.2]: https://github.com/alexseong/dsy_oop
