@@ -103,7 +103,6 @@ This document covers much of what we'll teach you, but you are each other's grea
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
 | Week 4 | <ul><li>[Learn Python the Hard Way (ex 40-42)][5]</li><li>Extra: Learn Python the Hard Way ex 43</ul> | [OOP][5.2]<br>[Python Intro 5][5.3] | Alex Seong | [slides][5.1]  |
-
 | Week 1 | Prealgebra with Python | Assessment 2<br>[Prealgebra][26]  | Alex Seong | slides |
 | Week 2 | <ul><li>Prealgebra with Python</li><li>Algebra1 with Python</li></ul> | [Prealgebra][26]<br>[Algebra1][26.1]  | Alex Seong | slides<br><br>slides |
 | Week 3 | <ul><li>Prealgebra with Python</li><li>Algebra1 with Python</li><li>Algebra2 with Python</li></ul> | [Prealgebra][26]<br>[Algebra1][26.1]<br>[Algebra2][26.2]  | Alex Seong | slides<br>slides<br>slides |
@@ -222,6 +221,10 @@ We will focus on a few canonical texts for the class and readings will be assign
 [6.3]: https://github.com/alexseong/dsy_python_intro_3/tree/master/lectures/python_intro_3.1.pdf
 [6.4]: https://github.com/alexseong/dsy_python_intro_3/tree/master/lectures/python_intro_3.2.pdf
 [6.5]: https://github.com/alexseong/dsy_python_intro_3/tree/master/lectures/python_intro_3.3.pdf
+[7]: https://github.com/alexseong/dsy_python_intro_4
+[7.1]: https://github.com/alexseong/dsy_python_intro_3/tree/master/lectures/python_intro_4.1.pdf
+[7.2]: https://github.com/alexseong/dsy_python_intro_3/tree/master/lectures/python_intro_4.2.pdf
+[7.3]: https://github.com/alexseong/dsy_python_intro_3/tree/master/lectures/python_intro_4.3.pdf
 [10]: http://sqlzoo.net/wiki/Main_Page
 [11]: http://www.postgresql.org/docs/7.4/static/tutorial-start.html
 [12]: http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
