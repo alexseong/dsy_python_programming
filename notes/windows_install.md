@@ -48,6 +48,7 @@ To run your program in the command line you type at the command line prompt. Win
 
     python firstprog.py
 or
+
     firstprog.py
 
 Where firstprog.py is the name of the file containing your Python program. Make sure to use the cd command to be in the correct directory that contains your program file(s).
