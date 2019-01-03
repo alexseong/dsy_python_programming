@@ -218,8 +218,10 @@ We will focus on a few canonical texts for the class and readings will be assign
 [5.3]: https://github.com/alexseong/dsy_python_intro_3
 [6]: http://nbviewer.ipython.org/github/jvns/pandas-cookbook/blob/master/cookbook/A%20quick%20tour%20of%20IPython%20Notebook.ipynb
 [6.1]: notes/python_syntax
-[6.2]: https://github.com/alexseong/dsy_python_intro_4
-[6.3]: https://github.com/alexseong/dsy_lectures/tree/master/python-intro/python_intro_4
+[6.2]: https://github.com/alexseong/dsy_python_intro_3
+[6.3]: https://github.com/alexseong/dsy_python_intro_3/tree/master/lectures/python_intro_3.1.pdf
+[6.4]: https://github.com/alexseong/dsy_python_intro_3/tree/master/lectures/python_intro_3.2.pdf
+[6.5]: https://github.com/alexseong/dsy_python_intro_3/tree/master/lectures/python_intro_3.3.pdf
 [10]: http://sqlzoo.net/wiki/Main_Page
 [11]: http://www.postgresql.org/docs/7.4/static/tutorial-start.html
 [12]: http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
