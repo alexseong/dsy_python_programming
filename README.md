@@ -221,9 +221,9 @@ We will focus on a few canonical texts for the class and readings will be assign
 [6.4]: https://github.com/alexseong/dsy_python_intro_3/tree/master/lectures/python_intro_3.2.pdf
 [6.5]: https://github.com/alexseong/dsy_python_intro_3/tree/master/lectures/python_intro_3.3.pdf
 [7]: https://github.com/alexseong/dsy_python_intro_4
-[7.1]: https://github.com/alexseong/dsy_python_intro_3/tree/master/lectures/python_intro_4.1.pdf
-[7.2]: https://github.com/alexseong/dsy_python_intro_3/tree/master/lectures/python_intro_4.2.pdf
-[7.3]: https://github.com/alexseong/dsy_python_intro_3/tree/master/lectures/python_intro_4.3.pdf
+[7.1]: https://github.com/alexseong/dsy_python_intro_4/tree/master/lectures/python_intro_4.1.pdf
+[7.2]: https://github.com/alexseong/dsy_python_intro_4/tree/master/lectures/python_intro_4.2.pdf
+[7.3]: https://github.com/alexseong/dsy_python_intro_4/tree/master/lectures/python_intro_4.3.pdf
 [10]: http://sqlzoo.net/wiki/Main_Page
 [11]: http://www.postgresql.org/docs/7.4/static/tutorial-start.html
 [12]: http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
