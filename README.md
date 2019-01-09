@@ -102,7 +102,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 ### Month 2: More Python 
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
-| Week 1 | <ul><li>[Learn Python the Hard Way (ex 40-42)][5]</li><li>Extra: Learn Python the Hard Way ex 43</ul> | [OOP][5.2]<br>[Python Intro 5][5.3] | Alex Seong | [slides][5.1]  |
+| Week 1 | <ul><li>[Learn Python the Hard Way (ex 40-42)][5]</li><li>Extra: Learn Python the Hard Way ex 43</ul> | [OOP][5.2]| Alex Seong | [python obects][5.1]<br>[OOP lecture][5.3]  |
 | Week 2 | Prealgebra with Python | Assessment 2<br>[Prealgebra][26]  | Alex Seong | slides |
 | Week 3 | <ul><li>Prealgebra with Python</li><li>Algebra1 with Python</li></ul> | [Prealgebra][26]<br>[Algebra1][26.1]  | Alex Seong | slides<br><br>slides |
 | Week 4 | <ul><li>Prealgebra with Python</li><li>Algebra1 with Python</li><li>Algebra2 with Python</li></ul> | [Prealgebra][26]<br>[Algebra1][26.1]<br>[Algebra2][26.2]  | Alex Seong | slides<br>slides<br>slides |
@@ -211,9 +211,9 @@ We will focus on a few canonical texts for the class and readings will be assign
 [4.3]: https://github.com/alexseong/dsy_python_intro_2/tree/master/lectures/python_intro_2.2.pdf
 [4.4]: https://github.com/alexseong/dsy_python_intro_2/tree/master/lectures/python_intro_2.3.pdf
 [5]: http://learnpythonthehardway.org/book/ex40.html
-[5.1]: https://github.com/alexseong/dsy_lectures/tree/master/OOP
+[5.1]: https://github.com/alexseong/dsy_oop/tree/master/lectures/python_intro_oop.pdf
 [5.2]: https://github.com/alexseong/dsy_oop
-[5.3]: https://github.com/alexseong/dsy_python_intro_3
+[5.3]: https://github.com/alexseong/dsy_oop/tree/master/lectures/oop_lecture
 [6]: http://nbviewer.ipython.org/github/jvns/pandas-cookbook/blob/master/cookbook/A%20quick%20tour%20of%20IPython%20Notebook.ipynb
 [6.1]: notes/python_syntax
 [6.2]: https://github.com/alexseong/dsy_python_intro_3
