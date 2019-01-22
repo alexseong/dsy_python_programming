@@ -92,7 +92,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 ### Month 1: Python Programming Intro
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
-| Week 1 | [Development Workflow][1]<br><br>[Python Installation][1.1] | [Assessment 1][2]<br><br>[Python Intro 1][3] | Alex Seong | [git-intro][3.1]<br><br>[slides][3.2] |
+| Week 1 | [Development Workflow][1]<br>[Python Installation][1.1]<br>[git Installation][1.2] | [Assessment 1][2]<br><br>[Python Intro 1][3] | Alex Seong | [git-intro][3.1]<br><br>[slides][3.2] |
 | Week 2 | [Python Syntax 1][4.1] | [Python Intro 2][4] | Alex Seong | [slide1][4.2]<br>[slide2][4.3]<br>[slide3][4.4]|
 | Week 3 | <ul><li>[Intro to IPython Notebook][6]</li><li>[Python Syntax 2][6.1]</li></ul>| [Python Intro 3][6.2] | Alex Seong | [slide1][6.3]<br>[slide2][6.4]<br>[slide3][6.5] |
 | Week 4 | [Python Syntax 3][6.1] | [Python Intro 4][7] | Alex Seong | [slide1][7.1]<br>[slide2][7.2]<br>[slide3][7.3]  |
@@ -201,6 +201,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Month 1 -->
 [1]: notes/workflow.md
 [1.1]: notes/installation.md
+[1.2]: Extra_Credit/git.md
 [2]: https://github.com/alexseong/dsy_python_assessment-1
 [3]: https://github.com/alexseong/dsy_python_intro_1
 [3.1]: https://github.com/alexseong/dsy_python_intro_1/tree/master/lectures/intro-git.pdf
