@@ -37,16 +37,16 @@ The classroom hours are 6:00pm-8:00pm every day. This is the standard schedule.
 
 | Time    | Activity                                                    |
 | ------- | ----------------------------------------------------------- |
-|  6:00pm | Homework/Assessment Review or Mini Quiz                     |
-|  7:00pm | Lecture and Exercise                                        |
+|  5:00pm | Homework/Assessment Review or Mini Quiz                     |
+|  6:00pm | Lecture and Exercise                                        |
 
 On days with assessments, the schedule will be approximately this (varying depending on length of assessment):
 
 | Time    | Activity                                                    |
 | ------- | ----------------------------------------------------------- |
-|  6:00pm | Homework/Assessment Review                                  |
-|  6:40pm | Assessment                                                  |
-|  7:30pm | Lecture                                                     |
+|  5:00pm | Homework/Assessment Review                                  |
+|  5:40pm | Assessment                                                  |
+|  6:00pm | Lecture                                                     |
 
 
 Evaluations
