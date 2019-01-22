@@ -82,10 +82,9 @@ This document covers much of what we'll teach you, but you are each other's grea
 | --- | --- | --- |
 | 1 |  | [Python Programming Intro](#month-1-python-programming-intro) |
 | 2 |  | [More Python](#month-2-more-python) |
-| 3 |  | [Math Programming with Numpy](#month-3-math-programming-with-numpy) |
+| 3 |  | [Math and Scientific Programming with NumPy, SciPy, SymPy](#month-3-math-programming-with-numpy) |
 | 4 |  | [Data Analysis with Pandas](#month-4-data-analysis-with-pandas) |
-| 5 |  | [Visualizaton](#month-5-visualization) |
-| 6 |  | [Capstone Project](#week-6-capstone-project) |
+| 5 |  | [Visualizaton and Basic Statistics](#month-5-visualization) |
 
 --
 
