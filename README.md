@@ -135,18 +135,8 @@ This document covers much of what we'll teach you, but you are each other's grea
 |:--:|:--:|:--|:--:|:--:|
 | Week 1 | More plotting | Seaborn and Plotly | Alex Seong | slides |
 | Week 2 | Basic Linear Algebra and Numpy | Linear Algebra and EDA | Alex Seong | slides |
-| Week 3 | Sampling and Estimation | Sampling and Estimation | Alex Seong | slides |
-| Week 4 | Hypothesis Testing | A/B Testing(or Linear Regression Intro)| Alex Seong | slides |
-
---
-
-### Month 6: Capstone Project
-| Week | Readings | Repo | Instructor | Slides |
-|:--:|:--:|:--|:--:|:--:|
-| Week 1 | Project Proposal| Web Scraping | Alex Seong | slides |
-| Week 2 | Project Proposal| Web Products(Flask) | Alex Seong | slides |
-| Week 3 | Project Review | Project Review | Alex Seong | slides |
-| Week 4 | Project Presentation | Web or PPT | Alex Seong | slides |
+| Week 3 | Sampling and Estimation<br><br> Capstone Project| Sampling and Estimation<br><br>Web Scraping | Alex Seong | slides |
+| Week 4 | Hypothesis Testing<br><br> Capstone Project | A/B Testing(or Linear Regression Intro)<br><br>Project Review| Alex Seong | slides |
 
 --
 
@@ -162,19 +152,6 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 ## References
 
-### Data Analysis with Python
-
-* [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do): Some of the `pandas` methods have changed (always reference `pandas` [online documentation](http://pandas.pydata.org/)) but a solid book on data analysis in Python.
-
-
-### Numpy
-
-* [Official Numpy Tutorial](http://wiki.scipy.org/Tentative_NumPy_Tutorial)
-* [scipy Lectures](https://scipy-lectures.github.io/intro/numpy/index.html)
-* [Crash Course in Python for Scientist](http://nbviewer.ipython.org/gist/rpmuller/5920182)
-* [Scientific Python Lectures](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb)
-* [Numpy Broadcasting](http://wiki.scipy.org/EricsBroadcastingDoc)
-* [Pyton Bootcamp Lectures](http://nbviewer.ipython.org/github/profjsb/python-bootcamp/blob/master/Lectures/05_NumpyMatplotlib/IntroNumPy.ipynb)
 * [Prealgebra via Python Programming: First steps to perform large scale computational tasks in the Sciences and Engineerings](https://www.researchgate.net/publication/325473565_Prealgebra_via_Python_Programming_First_steps_to_perform_large_scale_computational_tasks_in_the_Sciences_and_Engineerings) 
 
 ### Scipy
@@ -185,14 +162,8 @@ We will focus on a few canonical texts for the class and readings will be assign
 
 * [Introduction to Machine Learning with sklearn](http://researchcomputing.github.io/meetup_spring_2014/python/sklearn.html)
 * [scikit-learn workshop](https://github.com/jakevdp/sklearn_pycon2014)
-* [Machine Learning Tutorial](https://github.com/amueller/tutorial_ml_gkbionics)
 * [Introduction to scikit-learn](http://nbviewer.ipython.org/github/tdhopper/Research-Triangle-Analysts--Intro-to-scikit-learn/blob/master/Intro%20to%20Scikit-Learn.ipynb)
-* [Data analysis with scikit-learn](http://sebastianraschka.com/Articles/2014_scikit_dataprocessing.html)
-* [Advanced Machine Learning with scikit-learn](https://us.pycon.org/2013/community/tutorials/23/)
 
-### Extra
-
-* [University of Colorado Computational Science workshops](http://researchcomputing.github.io/meetup_spring_2014/)
 
 <!-- ************************** References **************************************** -->
 
