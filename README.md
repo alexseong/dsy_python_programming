@@ -201,7 +201,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 <!-- Month 1 -->
 [1]: notes/workflow.md
 [1.1]: notes/installation.md
-[1.2]: Extra_Credit/git.md
+[1.2]: ./git.md
 [2]: https://github.com/alexseong/dsy_python_assessment-1
 [3]: https://github.com/alexseong/dsy_python_intro_1
 [3.1]: https://github.com/alexseong/dsy_python_intro_1/tree/master/lectures/intro-git.pdf
