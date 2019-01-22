@@ -11,9 +11,8 @@ this programming course and other data science courses at this institute. This d
 ## Overview
 
 1. [Toolchain](#toolchain): know the tools, use the tools, love the tools
-  * iTerm2
   * Atom (IDEs)
-  * iPython
+  * python3
 1. [Keyboard Shortcuts](#keyboard-shortcuts)
   * Don't use the mouse!
 1. [Interactive Development Workflow](#interactive-development-workflow)
@@ -28,16 +27,15 @@ Everyday here you'll be writing programs in Python. You have 2 options when
 you're developing:
 
   1. Develop in a text editor (Atom) and run the code with the Python
-     interpreter (iPython in iTerm2)
-  2. Develop in an interactive repl (read-eval-print loop, iPython in iTerm2)
+     interpreter (python3 in Terminal)
+  2. Develop in an interactive repl (read-eval-print loop, python3 in Terminal)
 
 For the most part, you'll use option 1. Option 2 (developing in a repl) is best
 when you're trying out small bits of code.
 
 You can significantly increase your productivity by mastering your tools and continuing to invest in the craft of building software.  Learning and using a programming editor is a foundational skill.  If you know `vi` or `emacs`, continue to use them.  If you haven't mastered them, then `Atom` is a good option.  Editors are a personal choice and the source of bitter religious disputes.  Choose a professional editor which works for you.
 
-**Atom, iTerm2, and iPython will be your workhorses. Get to know them
-well.**
+**Atom and python3 will be your workhorses. Get to know them well.**
 
 ### Hello World in 2 Acts
 ---
@@ -50,40 +48,36 @@ well.**
 # hello.py
 
 def hello_world():
-  print "hello, world!"
+  print ("hello, world!")
 
 hello_world()
 
 ```
 
-*In iTerm2:*
+*In Terminal:*
 
 ```
-$ ipython hello.py
+$ python3 hello.py
 hello, world!
 ```
 
 #### __Act 2: REPL__
 
-*In iTerm2:*
+*In Terminal:*
 
 ```
-$ ipython
-Python 2.7.6 (default, Apr  9 2014, 11:48:52)
-Type "copyright", "credits" or "license" for more information.
+$ python3
+Python 3.6.2 |Anaconda, Inc.| (default, Sep 21 2017, 18:29:43) 
+[GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
 
-IPython 2.0.0 -- An enhanced Interactive Python.
-?         -> Introduction and overview of IPython's features.
-%quickref -> Quick reference.
-help      -> Python's own help system.
-object?   -> Details about 'object', use 'object??' for extra details.
 
-In [1]: def hello_world():
-   ...:     print "hello, world!"
-   ...:
-
-In [2]: hello_world()
+>>> def hello_world():
+...    print ("hello, world!")
+... 
+>>> hello_world()
 hello, world!
+>>> 
 ```
 
 Even when developing in a text editor, it's important to keep a tight feedback
@@ -116,7 +110,7 @@ document.**
 * Anaconda Python and Packages
 
   We use the Anaconda scientific python stack which is just a vanilla version of
-  Python 2.7 along with all the packages that a data scientist would need,
+  Python 3.6.2 along with all the packages that a data scientist would need,
   including **NumPy**, **SciPy**, **SciKit-Learn**, **Pandas**, and
   **matplotlib**. Anaconda manages the Python environment for us. If you need to
   install other Python packages (unlikely), do so with the `conda` command-line
@@ -125,7 +119,7 @@ document.**
 
 * Google Chrome
 
-  Our browser of choice here Galvanize. Use it.
+  Our browser of choice here Ellite. Use it.
 
 * Homebrew
 
@@ -156,7 +150,7 @@ you are developing.
 * To close a tab: __META__ + __w__
 * To save a file: __META__ + __s__
 
-### Terminal/iTerm2 Shortcuts
+### Terminal Shortcuts
 
 __Window Management__
 
@@ -170,18 +164,18 @@ __Window Management__
 * To close a split pane or tab: __META__ + __w__
 * To clear the terminal screen: __META__ + __k__
 
-__Command Line Basic Commands__
+__Command Line Basic Commands (Windows)__
 
-* `ls`: list files in current directory
+* `ls`:(dir) list files in current directory
 * `cd directory`: change directories to directory
 * `cd ..`: navigate up one directory
-* `mkdir new-dir`: create a directory called new-dir
-* `rm some-file`: remove some-file
-* `man some-cmd`: pull up the manual for some-cmd
-* `pwd`: find the path of the current directory
-* `mv path/to/file new/path/to/file`: move a file or directory (also used for
+* `mkdir new-dir`:(md new-dir) create a directory called new-dir
+* `rm some-file`:(del some-file) remove some-file
+* `man some-cmd`:(help some-cmd) pull up the manual for some-cmd
+* `pwd`:(cd) find the path of the current directory
+* `mv path/to/file new/path/to/file`:(move path/to/file new/path/to/file) move a file or directory (also used for
   renaming)
-* `find . -name blah`: find files in the current directory (and children) that
+* `find . -name blah`: (find) find files in the current directory (and children) that
   have blah in their name
 
 __Command Line Navigation__
@@ -224,17 +218,17 @@ file in the terminal.
 # hello.py
 
 def hello_world():
-  print "hello, world!"
+  print ("hello, world!")
 
 def add_em_up(a, b, c):
   return a + b + c
 
 if __name__ == "__main__":
   hello_world()
-  print add_em_up(3, 4, 5)
+  print (add_em_up(3, 4, 5))
 ```
 
-*iTerm2:*
+*Terminal:*
 
 ```
 $ ipython hello.py
@@ -254,111 +248,6 @@ ensures that that's the case. Anytime you're writing code on the top level
 (i.e. outside of a function or class definition), it should be within this
 guard.*
 
-### Modules and Autoreload
-
-You can instead import the file as a module in iPython, and as you make
-modifications to the file, iPython will automagically reload the module (This
-is a setting that has been enabled on all the Galvanize workstations). Let's take
-a look.
-
-*IDE:*
-
-```
-# hello.py
-
-def hello_world():
-  print "hello, world!"
-
-def add_em_up(a, b, c):
-  return a + b + c
-
-if __name__ == "__main__":
-  hello_world()
-  print add_em_up(3, 4, 5)
-```
-
-*iTerm2:*
-
-```
-$ ls
-hello.py
-
-$ ipython
-
-In [1]: import hello as lib  
-
-# Notice how none of the print statments happened thanks to the
-# if __name__ == "__main__" guard.
-
-In [2]: lib.hello_world()
-hello, world!
-
-In [3]: lib.add_em_up(3, 4, 5)
-Out[3]: 12
-```
-
-Note that you can import your files into iPython as modules. Here, `hello.py`
-was imported and aliased as `lib`. All the functions and classes defined in that
-file are available in the imported module.
-
-**When developing using the module pattern, it's important to write all your
-code in functions and classes.** Don't just have code hanging out on the top
-level unless it's a very short script (and it should always have the `__name__`
-guard).
-
-Now let's see how `autoreload` makes our life easier.
-
-*IDE:*
-
-```
-# hello.py
-
-def hello_world():
-  print "hello, cruel world!"
-
-def add_em_up(a, b, c):
-  return a + b + c
-
-def power_up(b, e):
-  return b ** e
-
-if __name__ == "__main__":
-  hello_world()
-  print add_em_up(3, 4, 5)
-```
-
-Here we made two changes: we modified `hello_world` and we added a method
-`power_up`.
-
-*iTerm2*
-
-```
-# A continuation of the above iPython session
-
-In [4]: lib.hello_world()
-hello, cruel world!
-
-In [5]: lib.power_up(5, 2)
-Out[5]: 25
-```
-
-The file has been automatically reloaded for us! We can interact with all the
-functions and classes interactively without any fuss. And no need to hop back
-and forth adding additional print statments and whatnot; we can just go ahead
-and play with all of our code interactively.
-
-*Note on global imports: You'll sometimes see a global import `from somelib
-import *`. This is very bad practice. It pollutes the global namespace (i.e. all
-the variable names declared on the top level) and it also won't work with
-`autoreload` in iPython, so don't do it.*
-
-To add `autoreload` functionality, feel free to inspect this
-[document](https://gist.github.com/rsepassi/2cdde6c6d4b36916cb37) and copy it to your own machine in the filepath `~/.ipython/profile_default/startup/autoreload_startup.ipy`
-
-
-
-
-
 
 ### Interactive Debugging
 
@@ -376,7 +265,7 @@ inspect the local scope and the value of variables. Here's how it's used:
 import ipdb # The interactive Python debugger
 
 def hello_world():
-  print "hello, cruel world!"
+  print ("hello, cruel world!")
 
 def add_em_up(a, b, c):
   return a + b + c
@@ -389,22 +278,22 @@ if __name__ == "__main__":
   a = 22
   ipdb.set_trace()
   b = 33
-  print add_em_up(3, 4, 5)
+  print (add_em_up(3, 4, 5))
 ```
 
-*iTerm2:*
+*Terminal:*
 
 ```
-$ ipython hello.py
+$ ppython3 hello.py
 hello, cruel world!
 > ~/hello.py(14)<module>()
      13     ipdb.set_trace()
 ---> 14     b = 33
-     15     print add_em_up(3, 4, 5)
+     15     print (add_em_up(3, 4, 5))
 
-ipdb> print a
+ipdb> print (a)
 22
-ipdb> print b
+ipdb> print (b)
 *** NameError: name 'b' is not defined
 ipdb>
 ```
@@ -414,20 +303,20 @@ called; the code is paused right at that line. `a` is defined and has the value
 22. `b` is not defined yet since we have yet to evaluate this line and so we get
     an error. To go to the next line we use `n`.
 
-*iTerm2:*
+*Terminal:*
 
 ```
 # continued from above
 
-ipdb> print b
+ipdb> print(b)
 *** NameError: name 'b' is not defined
 ipdb> n
 > /Users/Ryan/Dropbox/DataScience/Zipfian/dsr/assessment-day1/code/hello.py(15)<module>()
      14     b = 33
----> 15     print add_em_up(3, 4, 5)
+---> 15     print (add_em_up(3, 4, 5))
      16
 
-ipdb> print b
+ipdb> print (b)
 33
 ipdb>
 ```
@@ -447,9 +336,8 @@ ipdb>
 **Keep the feedback loop tight.**
 
 1. Create a file
-1. Import the file as a module into iPython (`autoreload` takes care of the rest)
 1. Write some code
-1. Play with the code in iPython
+1. Play with the code in python shell
 1. Write some more code
 1. Use ipdb (interactive debugger) as necessary
 1. Repeat until done
@@ -518,13 +406,13 @@ __DO NOT commit large files to a Github repo (anything larger than ~20mb).  In c
 ## Recap
 
 1. Know the tools. Use the tools.
-  * iTerm2
+  * Terminal
   * IDE - Integrated Development Environment (Atom)
-  * iPython
+  * python3
 1. Use the keyboard. Don't use the mouse. Know your shortcuts.
 1. Keep a tight feedback loop when writing code.
   * Write code in IDE
-  * Import file into iPython
+  * Import file into python
   * Write, run, repeat
 1. Use git. Always be committing (ABC).
 
