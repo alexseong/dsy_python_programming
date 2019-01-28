@@ -84,7 +84,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 | 2 |  | [More Python](#month-2-more-python) |
 | 3 |  | [Math and Scientific Programming with NumPy, SciPy, SymPy](#month-3-math-programming-with-numpy) |
 | 4 |  | [Data Analysis with Pandas](#month-4-data-analysis-with-pandas) |
-| 5 |  | [Visualizaton and Basic Statistics](#month-5-visualization) |
+| 5 |  | [Visualizaton and Basic Statisticsll](#month-5-visualization) |
 
 --
 
@@ -177,7 +177,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [3.1]: https://github.com/alexseong/dsy_python_intro_1/tree/master/lectures/intro-git.pdf
 [3.2]: https://github.com/alexseong/dsy_python_intro_1/tree/master/lectures/python_intro_1.pdf
 [4]: https://github.com/alexseong/dsy_python_intro_2
-[4.1]: notes/python_syntax
+[4.1]: notes/python_syntax.md
 [4.2]: https://github.com/alexseong/dsy_python_intro_2/tree/master/lectures/python_intro_2.1.pdf
 [4.3]: https://github.com/alexseong/dsy_python_intro_2/tree/master/lectures/python_intro_2.2.pdf
 [4.4]: https://github.com/alexseong/dsy_python_intro_2/tree/master/lectures/python_intro_2.3.pdf
@@ -186,7 +186,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [5.2]: https://github.com/alexseong/dsy_oop
 [5.3]: https://github.com/alexseong/dsy_oop/tree/master/lectures/oop_lecture
 [6]: http://nbviewer.ipython.org/github/jvns/pandas-cookbook/blob/master/cookbook/A%20quick%20tour%20of%20IPython%20Notebook.ipynb
-[6.1]: notes/python_syntax
+[6.1]: notes/python_syntax.md
 [6.2]: https://github.com/alexseong/dsy_python_intro_3
 [6.3]: https://github.com/alexseong/dsy_python_intro_3/tree/master/lectures/python_intro_3.1.pdf
 [6.4]: https://github.com/alexseong/dsy_python_intro_3/tree/master/lectures/python_intro_3.2.pdf
