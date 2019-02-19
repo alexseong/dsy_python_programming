@@ -103,9 +103,9 @@ This document covers much of what we'll teach you, but you are each other's grea
 ### Month 2: More Python 
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
-| Week 1 | <ul><li>[Learn Python the Hard Way (ex 40-42)][5]</li><li>Extra: Learn Python the Hard Way ex 43</ul> | [OOP][5.2]| Alex Seong | [python obects][5.1]<br>[OOP lecture][5.3]  |
-| Week 2 | Prealgebra with Python | Assessment 2<br>[Prealgebra][26]  | Alex Seong | slides |
-| Week 3 | <ul><li>Prealgebra with Python</li><li>Algebra1 with Python</li></ul> | [Prealgebra][26]<br>[Algebra1][26.1]  | Alex Seong | slides<br><br>slides |
+| Week 1 | <ul><li>[Intro to IPython Notebook][6]</li><li>[Python Syntax 2][6.1]</li></ul>| [Python Intro 3][6.2] | Alex Seong | [slide1][6.3]<br>[slide2][6.4]<br>[slide3][6.5] |
+| Week 2 | [Python Syntax 3][6.1] | [Python Intro 4][7] | Alex Seong | [slide1][7.1]<br>[slide2][7.2]<br>[slide3][7.3]  |
+| Week 3 | <ul><li>[Learn Python the Hard Way (ex 40-42)][5]</li><li>Extra: Learn Python the Hard Way ex 43</ul> | [OOP][5.2]| Alex Seong | [python obects][5.1]<br>[OOP lecture][5.3]  |
 | Week 4 | <ul><li>Prealgebra with Python</li><li>Algebra1 with Python</li><li>Algebra2 with Python</li></ul> | [Prealgebra][26]<br>[Algebra1][26.1]<br>[Algebra2][26.2]  | Alex Seong | slides<br>slides<br>slides |
 
 
