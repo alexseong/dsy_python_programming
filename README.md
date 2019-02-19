@@ -103,7 +103,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 ### Month 2: More Python 
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
-| Week 1 | <ul><li>[Intro to IPython Notebook][6]</li><li>[Python Syntax 2][6.1]</li></ul>| [Python Intro 3][6.2] | Alex Seong | [slide1][6.3]<br>[slide2][6.4]<br>[slide3][6.5] |
+| Week 1 | <ul><li>[Intro to IPython Notebook][6]</li><li>[Python Syntax 2][6.1]</li></ul>| [Assessment 2][2.1]<br><br>[Python Intro 3][6.2] | Alex Seong | [slide1][6.3]<br>[slide2][6.4]<br>[slide3][6.5] |
 | Week 2 | [Python Syntax 3][6.1] | [Python Intro 4][7] | Alex Seong | [slide1][7.1]<br>[slide2][7.2]<br>[slide3][7.3]  |
 | Week 3 | <ul><li>[Learn Python the Hard Way (ex 40-42)][5]</li><li>Extra: Learn Python the Hard Way ex 43</ul> | [OOP][5.2]| Alex Seong | [python obects][5.1]<br>[OOP lecture][5.3]  |
 | Week 4 | <ul><li>Prealgebra with Python</li><li>Algebra1 with Python</li><li>Algebra2 with Python</li></ul> | [Prealgebra][26]<br>[Algebra1][26.1]<br>[Algebra2][26.2]  | Alex Seong | slides<br>slides<br>slides |
@@ -175,6 +175,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [1.1]: notes/installation.md
 [1.2]: ./git.md
 [2]: https://github.com/alexseong/dsy_python_assessment-1
+[2.1]: https://github.com/alexseong/dsy_python_assessment-2
 [3]: https://github.com/alexseong/dsy_python_intro_1
 [3.1]: https://github.com/alexseong/dsy_python_intro_1/tree/master/lectures/intro-git.pdf
 [3.2]: https://github.com/alexseong/dsy_python_intro_1/tree/master/lectures/python_intro_1.pdf
