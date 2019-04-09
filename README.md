@@ -111,6 +111,8 @@ This document covers much of what we'll teach you, but you are each other's grea
 --
 
 ### Month 3: Python Programming Intro
+| Week | Readings | Repo | Instructor | Slides |
+|:--:|:--:|:--|:--:|:--:|
 | Week 1 | [Python Syntax 3][6.1] | [Python Intro 4][7] | Alex Seong | [slide1][7.1]<br>[slide2][7.2]<br>[slide3][7.3]  |
 | Week 2 | [Python Syntax 3][6.1] | [Python Intro 4][7] | Alex Seong | [slide1][7.1]<br>[slide2][7.2]<br>[slide3][7.3]  |
 | Week 3 | [Python Syntax 3][6.1] | [Python Intro 4][7] | Alex Seong | [slide1][7.1]<br>[slide2][7.2]<br>[slide3][7.3]  |
