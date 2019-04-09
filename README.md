@@ -137,7 +137,7 @@ This document covers much of what we'll teach you, but you are each other's grea
 ### Month 4: Data Analysis with Pandas
 | Week | Readings | Repo | Instructor | Slides |
 |:--:|:--:|:--|:--:|:--:|
-| Week 1 | <ul><li>[10 Minutes to Pandas][19]</li><li>[Pandas Top 10][21]</li><li>[Intro to IPython Notebook][6]</li></ul> | Assessment 4<br>[Introduction Pandas][65] | Alex Seong | [slides][65.1] |
+| Week 1 | <ul><li>[10 Minutes to Pandas][19]</li><li>[Pandas Top 10][21]</li><li>[Intro to IPython Notebook][6]</li></ul> | [Introduction Pandas][65] | Alex Seong | [slides][65.1] |
 | Week 2 | EDA with Pandas | EDA | Alex Seong | slides |
 | Week 3 | Data Wrangling with pandas| Data Wrangling | Alex Seong | slides |
 | Week 4 | Plotting | pandas-matplitlib  | Alex Seong | slides |
