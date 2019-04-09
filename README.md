@@ -278,7 +278,7 @@ We will focus on a few canonical texts for the class and readings will be assign
 [47.1]: http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf
 [47.2]: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 [65]: https://github.com/alexseong/dsy_pandas
-[65.1]: https://github.com/alexseong/dsy_lectures/blob/master/pandas-tutorial/isaac/pandas-lecture.ipynb
+[65.1]: lectures/pandas-lecture.ipynb
 [68]: https://github.com/zipfian/random-forest
 [68.1]: https://github.com/zipfian/DSI_Lectures/tree/master/random-forest
 [71]: https://github.com/zipfian/svm
